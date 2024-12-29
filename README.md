@@ -10,3 +10,5 @@
 ## How to Run
 - We can build a project using cargo build.
 - We can build and run a project in one step using cargo run.
+- Use the app!
+
